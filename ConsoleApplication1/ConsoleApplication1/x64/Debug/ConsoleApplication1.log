@@ -1,0 +1,173 @@
+﻿  ConsoleApplication1.cpp
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+      C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,1):
+      '__CLR_VER' declarado previamente en la línea de comandos
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,10): warning C4651: Se especificó '/D__CLR_VER=40809232' para el encabezado precompilado pero no para la compilación actual
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(157,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(261,33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(264,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(266,31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(284,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(529,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(531,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1071,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1073,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1611,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1613,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2197,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2199,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2764,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2766,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3298,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3300,33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3734,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3737,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3739,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3741,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3743,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3745,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3747,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3749,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3781,68): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3782,68): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3783,68): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3838,72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3839,74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3875,78): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3876,72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3918,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3919,72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3920,72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3968,68): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3969,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3970,78): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4029,72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4030,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4031,62): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4032,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4033,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4034,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4152,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4156,31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4157,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4158,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4159,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4160,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4161,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4282,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4402,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4453,23): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/ConsoleApplication1.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ConsoleApplication1.vcxproj -> C:\MATHEO\UPC\Ciclo I\Fundamentos_Programación\Trabajo Final\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
